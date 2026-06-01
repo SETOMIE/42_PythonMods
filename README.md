@@ -1,2 +1,3 @@
 # 42_PythonMods
 MODULES, not python mods... i aint typing modules in the title
+[Python Basics](https://www.geeksforgeeks.org/python/python-basics/), [Python Basics 2](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/), [Advanced Python](https://www.geeksforgeeks.org/python/advanced-python-tutorials/), , [Type Hinting in Python](https://www.geeksforgeeks.org/python/type-hints-in-python/), [W3School Python Basics](https://www.w3schools.com/Python/python_intro.asp)
