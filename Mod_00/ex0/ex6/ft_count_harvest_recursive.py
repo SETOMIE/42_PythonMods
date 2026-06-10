@@ -10,3 +10,5 @@ def ft_count_harvest_recursive(days = None, current = None):
 
 
 # ft_count_harvest_recursive()
+
+# ----- NOTES -----
