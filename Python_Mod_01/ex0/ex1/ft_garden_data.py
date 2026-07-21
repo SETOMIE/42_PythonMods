@@ -7,19 +7,21 @@ class Plant:
     def show(self) -> None:
         print(f'{self.name}: {self.height}cm, {self.age} days old')
 
-    # def show(self): (OLD)
-    #     print('=== Garden Plant Registry ===')
-    #     print(f'Rose: {self.height}, {self.age}')
-    #     print(f'Sunflower: {self.height}, {self.age}')
-    #     print(f'Cactus: {self.height}, {self.age}') # calls indiv self.info
 
 if __name__ == '__main__':
-    Rose = Plant('Rose', '25', '30') #created obj, passing values to __init__
-    Sunflower = Plant('Sunflower', '80', '45')
-    Cactus = Plant('Cactus', '15', '120')
+    Rose = Plant('Rose', 25, 30) #created obj, passing values to __init__
+    Sunflower = Plant('Sunflower', 80, 45)
+    Cactus = Plant('Cactus', 15, 120)
     print('=== Garden Plant Registry ===')
     Rose.show()
     Sunflower.show()
     Cactus.show()
 
-# ft_garden_data()
+
+# << OLD CODE >>
+
+# def show(self):
+#     print('=== Garden Plant Registry ===')
+#     print(f'Rose: {self.height}, {self.age}')
+#     print(f'Sunflower: {self.height}, {self.age}')
+#     print(f'Cactus: {self.height}, {self.age}') # calls indiv self.info
